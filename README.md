@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ajith355/Ajith355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ajith K M
 
-Here are some ideas to get you started:
+### 🎓 Computer Science Student | 💻 Backend & AI Enthusiast | 🧠 Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Backend & AI Developer. Specializing in ML Training & Algorithms. Stack: Python, C++, Java, FastAPI & React. 🚀*
+
+<p align="center">
+<a href="mailto:your_email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
+
+</div>
+
+---
+
+## 🚀 Skills & Technologies
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,oracle,html,css,js,flask,django,pytorch,opencv,git,docker,linux,vscode,pycharm&theme=light" />
+  </a>
+</div>
+
+<br/>
+
+### 🗄️ Database Management Expertise
+| **MySQL** | **Oracle Database** |
+| :--- | :--- |
+| 🔹 Database Design & Normalization | 🔹 PL/SQL Programming |
+| 🔹 Complex Joins & Subqueries | 🔹 Functions & Procedures |
+| 🔹 Indexing & Performance Tuning | 🔹 Triggers & Cursors |
+| 🔹 Stored Procedures | 🔹 Transaction Management |
+
+### 🤖 AI & Machine Learning Capabilities
+* **Deep Learning:** Proficient in **PyTorch** for model training.
+* **Computer Vision:** Experience with **YOLO** and **OpenCV** for object detection and image processing.
+* **Reinforcement Learning:** Understanding of **DQN** and Expectimax algorithms.
+
+### 🌐 Web & Backend Architecture
+* **Frameworks:** Building scalable APIs with **FastAPI**, **Flask**, and **Django**.
+* **Frontend:** Integration using HTML5, CSS3, and JavaScript.
+* **Architecture:** Designing RESTful services and microservices logic.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajith355&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith355&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+⭐ *Feel free to explore my repositories and connect with me!*
+</div>
