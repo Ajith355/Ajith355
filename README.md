@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ajith K M
 
-### 🎓 Computer Science Student | 💻 Backend & AI Enthusiast | 🧠 Problem Solver
+### 🎓 Computer Science Student | 💻 Backend & AI Enthusiast 
 
 *Backend & AI Developer. Specializing in ML Training & Algorithms. Stack: Python, C++, Java, FastAPI & React. 🚀*
 
